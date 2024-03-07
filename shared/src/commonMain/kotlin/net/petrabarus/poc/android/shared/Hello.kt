@@ -1,9 +1,9 @@
 package net.petrabarus.poc.android.shared
 
-class Greeting {
+class Hello {
     private val platform: Platform = getPlatform()
 
-    fun greet(): String {
-        return "Hello, ${platform.name}!"
+    fun sayHello(): String {
+        return "Mr. ${platform.name}!"
     }
 }

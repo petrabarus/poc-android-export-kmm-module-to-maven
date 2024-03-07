@@ -1,0 +1,1 @@
+net.petrabarus.poc.android.shared

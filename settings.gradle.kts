@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "PoCAndroidExportKMMMaven"
 include(":app")
+include(":shared")
